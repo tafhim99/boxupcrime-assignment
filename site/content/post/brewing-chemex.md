@@ -1,10 +1,9 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: London Team Awards
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  A proud moment for Box Up when young leader Brogan, took home
+  the London Team Award 2018 as one of London's most inspiring leaders.
 image: /img/blog-chemex.jpg
 ---
 

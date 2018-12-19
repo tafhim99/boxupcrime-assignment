@@ -3,39 +3,38 @@ title: Box Up Crimethhgv
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/products-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Who we are
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We are a social youth that operate from the London borough of Dagenham.
+    We work with young people at risk of having their lives ruined by crime
+    and motivate them to rebuild and recapture their dreams and aspirations
+    .
 intro:
-  heading: What we offer
+  heading: Our Programmes
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    We offer various programmes for a broad age range allowing people to express
+    and enjoy themselves in various boxing activities. Here are some of the
+    activities we have going on at the moment.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/IMG_2570.JPG
+    header: Monday Kingsley Hall Community Sessions
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
+      Based in Dagenham, these community led engagement sessions provide training,
+      mentoring, discipline and motivation to young people age 13-20. The focus
+      is on encouraging the young people to take positive action in their lives.
+  - image: /img/IMG_2644.JPG
+    header: Thursday Ripple Centre- Box Up 4 Kids
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      Designed for younger kids aged 4-12 these sessions are based in Barking
+      providing a fun environment of exercise and activity. These are designed
+      as preventative interventions from the influence of crime and gangs in the
+      inner city.
 values:
-  heading: Our values
+  heading: Our Founder
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Inspired in 2012 from the loss of valued friends due to gang affiliation and
+    crime, Stephen Addison launched the project ‘Box Up Crime’ in 2013, a new
+    initiative which provides social change though social innovation. We use
+    sports, in particular boxing, as a tool to inspire, educate and develop
+    young individuals, specifically those who have been involved in crime.
 ---
-
