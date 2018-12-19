@@ -1,18 +1,38 @@
 <div class="bg-off-white pv4">
 	<div class="ph3 mw7 center">
 
-		<h2 class="f2 b lh-title mb3">Latest stories</h1>
+		<h2 class="f2 b lh-title mb3 red">Latest stories</h1>
 
 		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+			<div class="fb-page"
+			  data-href="https://en-gb.facebook.com/boxupcrimeuk/"
+			  data-width="380"
+			  data-hide-cover="false"
+			  data-show-facepile="false"></div>
+
+				<div class="pa4">
+  <blockquote class="athelas ml0 mt0 pl4 black-90 bl bw2 b--blue">
+    <p class="f5 f4-m f3-l lh-copy measure mt0">
+      This will be used as a foundation to continually create awareness and
+			confidence building with communities. We strive to develop strong
+			relationships with secondary schools within the borough, promising to
+			provide assistance to improve student’s behaviour.
+    </p>
+    <cite class="f6 ttu tracked fs-normal">―Stephen Addison</cite>
+  </blockquote>
+</div>
+
+
 			{{ range first 4 (where .Data.Pages "Type" "post") }}
-				<div class="ph1-ns w-50-ns flex">
+				<div class="ph1-ns w-50-ns flex red">
+				
 					{{ .Render "li" }}
 				</div>
 			{{ end }}
 		</div>
 
 		<div class="tc">
-			<a href="/post" class="btn raise">Read more</a>
+			<a href="/post" class=" red btn raise">Read more</a>
 		</div>
 
 	</div>
